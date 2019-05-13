@@ -47,7 +47,7 @@ Capacity Monitor
 <input name="pagetype" type="radio" onclick="show(3)" />
 KiwiSquare (Pre-qualification calcualtor)
 <input name="pagetype" type="radio" onclick="show(4)" />
-Surveyor
+Surveyour
 <input name="pagetype" type="radio" onclick="show(5)" />
 None
 <p></p>
@@ -55,7 +55,7 @@ None
 <br>
 <span id="back-layer"> </span>
 <div id="d0" class="CF" style="display:none;">
-	<span style="background:url(allocation1.svg) no-repeat;"> </span> 
+    <span style="background:url(allocation1.svg) no-repeat;"> </span> 
   <!--<p></p>
     <input name="pagetype" type="radio" onclick="show(3)" />One
     <input name="pagetype" type="radio" onclick="show(4)" />Two
@@ -76,4 +76,13 @@ None
 
 </body>
 </html>
- 
+<script language="javascript">
+function show(number) {
+    
+    $('[id^="d"]').hide();
+    if(number >=6){
+       $('#d0').show();
+    }
+    $('#d' + number).show();
+}
+</script>
