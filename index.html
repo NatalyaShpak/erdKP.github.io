@@ -76,4 +76,13 @@ None
 
 </body>
 </html>
-
+<script language="javascript">
+function show(number) {
+    
+    $('[id^="d"]').hide();
+    if(number >=6){
+       $('#d0').show();
+    }
+    $('#d' + number).show();
+}
+</script>
