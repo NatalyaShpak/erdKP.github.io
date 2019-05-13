@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1288.7 1118.3" style="enable-background:new 0 0 1288.7 1118.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{display:inline;fill:#FFF2CC;stroke:#D6B656;stroke-dasharray:3,3;}
+	.st3{display:inline;}
+	.st4{font-family:'Helvetica';}
+	.st5{font-size:10.0145px;}
+	.st6{display:inline;fill:#FFF2CC;stroke:#D6B656;}
+	.st7{display:inline;stroke:#000000;stroke-miterlimit:10;}
+	.st8{display:inline;fill:#D5E8D4;stroke:#82B366;}
+	.st9{display:inline;fill:#DAE8FC;stroke:#6C8EBF;}
+	.st10{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;}
+	.st11{display:inline;fill:#E1D5E7;stroke:#9673A6;}
+	.st12{display:inline;fill:none;stroke:#000000;stroke-dasharray:3,3;}
+	.st13{opacity:0.5;fill:#A8B5B8;}
+</style>
+<title>allocation1</title>
+<g class="st0">
+	<path pointer-events="none" class="st1" d="M404.1,89.9h171.1"/>
+	<path pointer-events="none" class="st1" d="M575.2,86.6l-6.7,3.3l6.7,3.3"/>
+	<path pointer-events="none" class="st2" d="M55.7,23.6h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15H55.7c-8.3,0-15-6.7-15-15
+		V38.6C40.6,30.3,47.4,23.6,55.7,23.6z"/>
+	<g transform="translate(-0.5,-0.5)" class="st3">
+		<text transform="matrix(1 0 0 1 33.1924 94.6197)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st1" d="M625.2,157.1v83v83.5"/>
+	<path pointer-events="none" class="st1" d="M621.9,316.9h6.7 M628.6,323.6l-3.3-6.7l-3.3,6.7"/>
+	<path pointer-events="none" class="st6" d="M589.8,23.6h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V38.6C574.8,30.3,581.5,23.6,589.8,23.6z"/>
+	<g transform="translate(639.5,-0.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -72.7046 94.6197)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st1" d="M675.3,357h141.9V123.3h25"/>
+	<path pointer-events="none" class="st1" d="M835.5,126.7V120 M842.2,120l-6.7,3.3l6.7,3.3"/>
+	<path pointer-events="none" class="st1" d="M358.2,457.1h-6.3v169"/>
+	<path pointer-events="none" class="st1" d="M348.6,619.5h6.7 M355.3,626.1l-3.3-6.7l-3.3,6.7"/>
+	<path pointer-events="none" class="st1" d="M625.2,457.1v125.2v42.1"/>
+	<path pointer-events="none" class="st1" d="M621.9,621.1h6.7"/>
+	<path pointer-events="none" class="st6" d="M589.8,324h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V339.1C574.8,330.8,581.5,324,589.8,324z"/>
+	<g transform="translate(639.5,359.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -72.7046 35.0538)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st1" d="M892.3,457.6v233.3H733.7v200.3v35"/>
+	<path pointer-events="none" class="st7" d="M733.7,931.9l-1.9-5.8h3.9L733.7,931.9z"/>
+	<path pointer-events="none" class="st6" d="M856.8,324h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V339.1C841.8,330.8,848.5,324,856.8,324z"/>
+	<g transform="translate(959.5,359.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -125.6523 35.0538)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st8" d="M55.7,324h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15H55.7c-8.3,0-15-6.7-15-15
+		V339.1C40.6,330.8,47.4,324,55.7,324z"/>
+	<g transform="translate(-0.5,359.5)" class="st3">
+		<text transform="matrix(1 0 0 1 33.1924 35.0538)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st8" d="M322.7,324h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V339.1C307.7,330.8,314.4,324,322.7,324z"/>
+	<g transform="translate(319.5,359.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -19.7559 35.0538)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st1" d="M892.3,157.1v28.8v27.3"/>
+	<path pointer-events="none" class="st1" d="M890.3,208.4l1.9,5.8l1.9-5.8"/>
+	<path pointer-events="none" class="st6" d="M856.8,23.6h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V38.6C841.8,30.3,848.5,23.6,856.8,23.6z"/>
+	<g transform="translate(959.5,-0.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -125.6523 94.6197)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st9" d="M318.5,932h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V947C303.5,938.7,310.3,932,318.5,932z"/>
+	<g transform="translate(314.5,1088.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -18.9277 -85.5678)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st10" d="M892.3,824.3v50.1v58.4"/>
+	<path pointer-events="none" class="st11" d="M853.1,215.5h77.6c6.2,0,11.3,5,11.3,11.3v52.6c0,6.2-5,11.3-11.3,11.3h-77.6
+		c-6.2,0-11.3-5-11.3-11.3v-52.6C841.8,220.6,846.8,215.5,853.1,215.5z"/>
+	<g transform="translate(959.5,229.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -125.6523 27.3555)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st10" d="M379.1,761.8v62.6h513.2v8.3"/>
+	<path pointer-events="none" class="st9" d="M495.9,932H566c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1c-8.3,0-15-6.7-15-15
+		V947C480.9,938.7,487.6,932,495.9,932z"/>
+	<g transform="translate(527.5,1088.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -54.1719 -85.5678)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st1" d="M333.2,761.5v129.6h-242v41.7"/>
+	<path pointer-events="none" class="st1" d="M87.8,926.2h6.7 M94.5,932.8l-3.3-6.7l-3.3,6.7"/>
+	<path pointer-events="none" class="st1" d="M368.6,761.8H354v129.4h177.3v41.7"/>
+	<path pointer-events="none" class="st1" d="M528,926.2h6.7 M534.7,932.8l-3.3-6.7l-3.3,6.7"/>
+	<path pointer-events="none" class="st1" d="M343.6,761.8v37.6v133.5"/>
+	<path pointer-events="none" class="st1" d="M346.9,932.8l-3.3-6.7l-3.3,6.7"/>
+	<path pointer-events="none" class="st1" d="M366.5,761.5v112.9h317.1V924"/>
+	<path pointer-events="none" class="st7" d="M683.7,929.8l-1.9-5.8h3.9L683.7,929.8z"/>
+	<path pointer-events="none" class="st8" d="M318.4,628h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V643C303.4,634.7,310.1,628,318.4,628z"/>
+	<g transform="translate(314.5,723.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -18.9277 -25.1742)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st9" d="M55.7,932h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15H55.7c-8.3,0-15-6.7-15-15
+		V947C40.6,938.7,47.4,932,55.7,932z"/>
+	<g transform="translate(-0.5,1088.5)" class="st3">
+		<text transform="matrix(1 0 0 1 33.1924 -85.5678)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st11" d="M856.8,932h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V947C841.8,938.7,848.5,932,856.8,932z"/>
+	<g transform="translate(959.5,1088.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -125.6523 -85.5678)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st6" d="M1123.9,324h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V339.1C1108.9,330.8,1115.6,324,1123.9,324z"/>
+	<g transform="translate(1279.5,359.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -178.5986 35.0538)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st1" d="M674.9,90.2H842"/>
+	<path pointer-events="none" class="st1" d="M835.3,93.6v-6.7 M842,86.9l-6.7,3.3l6.7,3.3"/>
+	<path pointer-events="none" class="st1" d="M140.4,389.7h167.1"/>
+	<path pointer-events="none" class="st1" d="M307.5,386.3l-6.7,3.3l6.7,3.3"/>
+	<path pointer-events="none" class="st1" d="M407.4,389.7h167.1"/>
+	<path pointer-events="none" class="st1" d="M567.9,393v-6.7 M574.6,386.3l-6.7,3.3l6.7,3.3"/>
+	<path pointer-events="none" class="st1" d="M674.9,389.4H842"/>
+	<path pointer-events="none" class="st1" d="M835.3,392.7v-6.7 M842,386.1l-6.7,3.3l6.7,3.3"/>
+	<path pointer-events="none" class="st1" d="M941.9,389.8H1109"/>
+	<path pointer-events="none" class="st1" d="M1102.3,393.2v-6.7 M1109,386.5l-6.7,3.3l6.7,3.3"/>
+	<path pointer-events="none" class="st9" d="M673.2,932h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V947C658.2,938.7,664.9,932,673.2,932z"/>
+	<g transform="translate(739.5,1088.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -89.25 -85.5678)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st11" d="M210.1,1232.8h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15v-103.5C195,1239.6,201.8,1232.8,210.1,1232.8z"/>
+	<g transform="translate(184.5,1448.5)" class="st3">
+		<text transform="matrix(1 0 0 1 2.5811 -145.1332)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st9" d="M60.5,1232.8h73c8.6,0,15.6,7,15.6,15.6v102.2c0,8.6-7,15.6-15.6,15.6h-73
+		c-8.6,0-15.6-7-15.6-15.6v-102.2C44.8,1239.9,51.8,1232.8,60.5,1232.8z"/>
+	<g transform="translate(4.5,1448.5)" class="st3">
+		<text transform="matrix(1 0 0 1 34.0342 -145.1332)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st8" d="M356.1,1232.8h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15v-103.5C341.1,1239.6,347.8,1232.8,356.1,1232.8z"/>
+	<g transform="translate(359.5,1448.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -26.3735 -145.1332)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st6" d="M502.1,1232.8h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15v-103.5C487.1,1239.6,493.9,1232.8,502.1,1232.8z"/>
+	<g transform="translate(534.5,1448.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -55.3306 -145.1332)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st10" d="M303.9,89.9H141.2"/>
+	<path pointer-events="none" class="st1" d="M141.2,93.3l6.7-3.3l-6.7-3.3"/>
+	<path pointer-events="none" class="st6" d="M318.5,23.6h70.1c8.3,0,15,6.7,15,15v103.5c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V38.6C303.5,30.3,310.3,23.6,318.5,23.6z"/>
+	<g transform="translate(314.5,-0.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -18.9277 94.6197)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st10" d="M91.1,323.6v-83.5l-0.4-82.9"/>
+	<path pointer-events="none" class="st1" d="M94.5,323.6l-3.3-6.7l-3.3,6.7"/>
+	<path pointer-events="none" class="st1" d="M574.8,690.8h-85.1V590.7H379.1v37.6"/>
+	<path pointer-events="none" class="st1" d="M382.4,628.2l-3.3-6.7l-3.3,6.7"/>
+	<path pointer-events="none" class="st1" d="M625.2,758v99.7h-242v58.4v14.6"/>
+	<path pointer-events="none" class="st1" d="M386.6,930.7l-3.3-6.7l-3.3,6.7"/>
+	<path pointer-events="none" class="st8" d="M589.8,624.5h70.1c8.3,0,15,6.7,15,15V743c0,8.3-6.7,15-15,15h-70.1
+		c-8.3,0-15-6.7-15-15V639.5C574.8,631.2,581.5,624.5,589.8,624.5z"/>
+	<g transform="translate(639.5,719.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -72.7046 -24.5121)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<g transform="translate(91.5,142.5)" class="st3">
+		<text transform="matrix(1 0 0 1 26.061 10.0377)" class="st4 st5">k1</text>
+	</g>
+	<g transform="translate(321.5,142.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -11.7295 10.0377)" class="st4 st5">k1 v k2 ( bins ) Influx</text>
+	</g>
+	<g transform="translate(726.5,143.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -79.0068 9.8722)" class="st4 st5">k1</text>
+	</g>
+	<g transform="translate(1051.5,142.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -132.7822 10.0377)" class="st4 st5">k1</text>
+	</g>
+	<g transform="translate(731.5,503.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -79.835 -49.6938)" class="st4 st5">k1</text>
+	</g>
+	<g transform="translate(965.5,481.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -129.1484 -40.2113)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<g transform="translate(1291.5,501.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -172.7793 -49.3627)" class="st4 st5"> k1 ( Surveyour)</text>
+	</g>
+	<g transform="translate(406.5,501.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -76.7129 -49.3627)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<g transform="translate(376.5,862.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -21.3774 -109.0942)" class="st4 st5"> k2 v k1</text>
+	</g>
+	<g transform="translate(710.5,857.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -76.6416 -108.267)" class="st4 st5"> k2 v k1</text>
+	</g>
+	<g transform="translate(372.5,1231.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -20.7153 -170.1498)" class="st4 st5"> k2 v k1</text>
+	</g>
+	<g transform="translate(46.5,1232.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -15.4766 -170.3149)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<g transform="translate(760.5,1227.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -95.6895 -169.4887)" class="st4 st5">Influx or Vault&lt;br&gt;</text>
+	</g>
+	<g transform="translate(1051.5,302.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -132.7822 -16.436)" class="st4 st5">k2</text>
+	</g>
+	<g transform="translate(86.5,500.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -23.7647 -49.1977)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<g transform="translate(1044.5,1232.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -182.2783 -170.3149)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<g transform="translate(544.5,1232.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -59.9497 -170.3149)" class="st4 st5">Influx or Vault&lt;br&gt;</text>
+	</g>
+	<g transform="translate(1.5,1373.5)" class="st3">
+		<text transform="matrix(1 0 0 1 11.9985 -189.4731)" class="st4 st5">[Not supported by viewer]</text>
+	</g>
+	<path pointer-events="none" class="st10" d="M40.6,1200.3h1151.7"/>
+	<path pointer-events="none" class="st10" d="M674.9,1258.7h200.3"/>
+	<g transform="translate(760.5,1492.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -84.6924 -213.3354)" class="st4 st5">relation exists but not shown in the application</text>
+	</g>
+	<rect x="556" y="1333.8" pointer-events="none" class="st12" width="25" height="25"/>
+	<g transform="translate(626.5,1577.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -62.4604 -227.3998)" class="st4 st5">k1</text>
+	</g>
+	<g transform="translate(761.5,1572.5)" class="st3">
+		<text transform="matrix(1 0 0 1 -84.5439 -226.5727)" class="st4 st5">data source app</text>
+	</g>
+	<path pointer-events="none" class="st1" d="M575.2,1341.8l86.1,0.4"/>
+	<path pointer-events="none" class="st7" d="M665.6,1342.2l-5.9,2.9l1.5-2.9l-1.4-2.9L665.6,1342.2z"/>
+</g>
+<path class="st13" d="M2,0v1118.3h1223.5v-3.6h63.3V0h-63.3 M942.2,497.2c-2,0.5-4,0.8-6.1,0.8h-95.7c-11.5,0-21.5-8.7-24.3-21
+	c0-0.1,0-0.2-0.1-0.3c-0.3-1.1-0.5-2.3-0.7-3.5c0,0,0,0,0-0.1c-0.1-0.6-0.1-1.2-0.2-1.8c0-0.1,0-0.1,0-0.2c0-0.6-0.1-1.2-0.1-1.8
+	v-0.1V332.8c0-2.1,0.2-4.3,0.7-6.3c2.6-12.7,12.8-21.7,24.6-21.7h96.3c0.3,0,0.6,0,0.8,0h3.1c14.4,0,26.1,12.5,26.1,27.9l0,136.6
+	C966.7,484.2,955.9,496.4,942.2,497.2z"/>
+</svg>
